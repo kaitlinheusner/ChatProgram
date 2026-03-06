@@ -14,7 +14,8 @@ Instructions for using the software:
 
 1. Open multiple terminals and run 'server.py.' 
 2. Run as many clients as you want with 'client.py.'
-3. Communicate using the 'client.py' and look at the server terminal to get an idea of the overall scope of what is happening in the program. 
+3. Communicate using the 'client.py' and look at the server terminal to get an idea of the overall scope of what is happening in the program.
+4. When it asks to write a username, the input will look like messaging input. It will look like this 'You: ', after you write your username, you can send messages normally. 
 
 ## Development Environment
 
@@ -35,5 +36,5 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] I want to improve the way that the chat application looks because I think that it can look more pleasing for users to use. 
+* [ ] I want to improve the way that the chat application looks because I think that it can look more pleasing and be more effective for users to use. 
 * [ ] I want to add functionality that allows users to share files with each other in the chat. 
